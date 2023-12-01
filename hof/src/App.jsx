@@ -5,7 +5,7 @@ import HigherOrderComponent from './components//HigherOrderComponent';
 const App = () => {
   return (
     <div>
-      <h1>Redering of Objects in React.js</h1>
+      <h1>Redering of Objects in React</h1>
       <HigherOrderComponent />
     </div>
   );
